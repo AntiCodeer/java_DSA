@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class isArmstrong {
+class Q6_isArmstrong {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);

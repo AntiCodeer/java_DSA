@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class strPalindrome {
+class Q5_strPalindrome {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);
