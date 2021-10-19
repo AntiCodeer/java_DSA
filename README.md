@@ -7,3 +7,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q4. Solve Fibonacci Series Problem and take no of terms as a input.
 - Q5. Check wheather a String or a Number is Palindrome or not.
 - Q6. Check wheather a Number is Armstrong Number or not.
+- Q7. Given an integer number n, return the difference between the product of its digits and the sum of its digits. 
