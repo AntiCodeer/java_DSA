@@ -11,3 +11,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q8. Input a number and print all the factors of that number (use loops)
 - Q9. Take integer inputs till the user enters 0 and print the sum of all numbers
 - Q10. Take integer inputs till the user enters 0 and print the largest number from all.
+- Q11. Factorial Program In Java.
