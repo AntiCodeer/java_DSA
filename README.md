@@ -16,3 +16,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q13. Calculate Power of a Numbers
 - Q14. Calculate Ncr & Npr
 - Q15. Reverse A String In Java
+- Q16. HCF and LCM Of Two Numbers Program
