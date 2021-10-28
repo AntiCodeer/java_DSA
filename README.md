@@ -14,3 +14,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q11. Factorial Program In Java.
 - Q12. Calculate Average Of N Numbers
 - Q13. Calculate Power of a Numbers
+- Q14. Calculate Ncr & Npr
