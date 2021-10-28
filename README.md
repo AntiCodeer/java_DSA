@@ -13,3 +13,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q10. Take integer inputs till the user enters 0 and print the largest number from all.
 - Q11. Factorial Program In Java.
 - Q12. Calculate Average Of N Numbers
+- Q13. Calculate Power of a Numbers
