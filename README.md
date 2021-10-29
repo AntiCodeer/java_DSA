@@ -21,3 +21,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q18. Check if a number is Perfect No or Not.
 - Q19. Check Wheather a Year is a Leap Year or No.
 - Q20. xyz is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+- Q21. Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
