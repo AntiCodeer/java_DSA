@@ -23,3 +23,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q20. xyz is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
 - Q21. Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
 - Q22. Define a method to find out if a number is prime or not.
+- Q23. Define a method to check if a number is Palindrome or not.
