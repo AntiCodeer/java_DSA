@@ -25,3 +25,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q22. Define a method to find out if a number is prime or not.
 - Q23. Define a method to check if a number is Palindrome or not.
 - Q24. Write a program to print the factorial of a number by defining a method named 'Factorial'. Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.-> 4! = 1 * 2 * 3 * 4 = 24 
+- Q25. Write a function that returns all prime numbers between two given numbers.
