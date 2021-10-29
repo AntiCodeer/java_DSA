@@ -20,3 +20,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q17. Check the No of Vowel And Consonent in A String.
 - Q18. Check if a number is Perfect No or Not.
 - Q19. Check Wheather a Year is a Leap Year or No.
+- Q20. xyz is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
