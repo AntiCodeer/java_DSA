@@ -19,3 +19,4 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q16. HCF and LCM Of Two Numbers Program.
 - Q17. Check the No of Vowel And Consonent in A String.
 - Q18. Check if a number is Perfect No or Not.
+- Q19. Check Wheather a Year is a Leap Year or No.
