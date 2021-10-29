@@ -12,9 +12,10 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q9. Take integer inputs till the user enters 0 and print the sum of all numbers
 - Q10. Take integer inputs till the user enters 0 and print the largest number from all.
 - Q11. Factorial Program In Java.
-- Q12. Calculate Average Of N Numbers
-- Q13. Calculate Power of a Numbers
-- Q14. Calculate Ncr & Npr
-- Q15. Reverse A String In Java
-- Q16. HCF and LCM Of Two Numbers Program
-- Q17. Check the No of Vowel And Consonent in A String
+- Q12. Calculate Average Of N Numbers.
+- Q13. Calculate Power of a Numbers.
+- Q14. Calculate Ncr & Npr.
+- Q15. Reverse A String In Java.
+- Q16. HCF and LCM Of Two Numbers Program.
+- Q17. Check the No of Vowel And Consonent in A String.
+- Q18. Check if a number is Perfect No or Not.
