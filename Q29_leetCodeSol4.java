@@ -8,6 +8,7 @@ class Q29_leetCodeSol3 {
 			nums[i] = sc.nextInt();			
 		}
 		runningSum(nums);
+		sc.close();
 		System.out.println();
 	}
 	static void runningSum(int[] nums) {
