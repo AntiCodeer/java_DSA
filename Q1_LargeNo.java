@@ -26,7 +26,7 @@ public class Q1_LargeNo
         {
             System.out.printf("\nC = %d is the Largest No",c);    
         }
-
+        sc.close();
         System.out.println();
     }   
 }

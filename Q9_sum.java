@@ -11,5 +11,6 @@ class Q9_sum {
             sum = sum + n;
         }while(n != 0);
         System.out.println("Sum = "+sum);
+        sc.close();
     }
 } 

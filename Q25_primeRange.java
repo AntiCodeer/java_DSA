@@ -11,6 +11,7 @@ class Q25_primeRange {
 		for (int i=a; i<=b; ++i) {
 			prime(i);
 		}
+		in.close();
 		System.out.println();
 	}
 

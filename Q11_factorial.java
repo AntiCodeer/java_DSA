@@ -11,7 +11,8 @@ class Q11_factorial {
         }
         System.out.printf("Factorial [%d] = %d", n, fact);      //Itterative Approach
 
-        System.out.printf("\n%d! = %d",n,fact_rec(n));      //Recursive Approach
+        System.out.printf("\n%d! = %d",n,fact_rec(n));
+        sc.close();      //Recursive Approach
     }
     static int fact_rec(int n) {
         if(n==0 || n==1) {

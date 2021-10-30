@@ -11,6 +11,7 @@ class Q27_leetCodeSol2 {
 		System.out.println(Arrays.toString(nums));
 		buildArray(nums);
 		buildArray1(nums);
+		sc.close();
 		System.out.println();
 	}
 

@@ -8,6 +8,7 @@ class Q24_factorialShaow{
 
 		fact_itt(n);
 		System.out.println();
+		in.close();
 	}
 
 	static void fact_itt(int n){

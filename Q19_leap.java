@@ -11,6 +11,7 @@ class Q19_leap {
 		else {
 			System.out.printf("\n%d is Not a Leap Year",year);
 		}
+		sc.close();
 		System.out.println();
 	}
 }

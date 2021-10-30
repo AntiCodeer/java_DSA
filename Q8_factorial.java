@@ -13,6 +13,7 @@ class Q8_factorial {
             }
         }
         System.out.printf("\n%d has Total %d No of Facotors",n, count);
+        sc.close();
         System.out.println();
     }
 }

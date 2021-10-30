@@ -9,6 +9,7 @@ class Q15_strrev {
             rev = rev + str.charAt(i);
         }
         System.out.printf("Rev = %s",rev);
+        in.close();
         System.out.println();
     }
 }

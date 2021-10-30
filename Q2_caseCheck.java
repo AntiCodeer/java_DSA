@@ -17,6 +17,7 @@ public class Q2_caseCheck
         {
             System.out.printf("\n %c is a Uppercase Character.",c);
         }
+        sc.close();
         System.out.println();
     }
 }

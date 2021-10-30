@@ -12,6 +12,7 @@ class Q21_lasm {
 
 		System.out.printf("\nBetween %d, %d and %d, The Largest = %d",a,b,c,lar(a,b,c));
 		System.out.printf("\nBetween %d, %d and %d, The Smallest = %d",a,b,c,sma(a,b,c));
+		in.close();
 		System.out.println();
 	}
 

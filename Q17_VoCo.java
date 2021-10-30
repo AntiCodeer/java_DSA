@@ -20,6 +20,7 @@ class Q17_VoCo {
         }
         System.out.printf("\nVowel = %d",c1);
         System.out.printf("\nConsonent = %d",c2);
+        in.close();
         System.out.println();
     }
 }

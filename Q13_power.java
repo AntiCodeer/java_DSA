@@ -11,6 +11,7 @@ class Q13_power {
         System.out.printf("\nPower = %d", power(n,p));
         System.out.printf("\n");
         System.out.printf("\n");
+        in.close();
     }    
     static int power(int n,int p) {
         int power=1;

@@ -12,6 +12,7 @@ class Q23_palNo {
 		else
 			System.out.printf("\n%d is Not a Palindrome No.",a);
 		System.out.println();
+		in.close();
 	}
 
 	static boolean isPalindrome(int n){

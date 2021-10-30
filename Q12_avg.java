@@ -14,6 +14,7 @@ class Q12_avg {
 		float avg = sum / c+1;
 		System.out.println(avg);
 		System.out.println(sum);
+		sc.close();
 		System.out.println();
 	}
 }

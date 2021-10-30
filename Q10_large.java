@@ -11,5 +11,6 @@ class Q10_large {
             }
         }while(n!=0);
         System.out.println("Lergest = "+large);
+        sc.close();
     }
 }

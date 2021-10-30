@@ -11,6 +11,7 @@ class Q22_prime {
 		else
 			System.out.printf("\n%d is Not a Prime No",n);
 		System.out.println();
+		in.close();
 	}
 
 	static boolean isPrime(int n){

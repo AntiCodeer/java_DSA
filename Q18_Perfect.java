@@ -21,6 +21,7 @@ class Q18_Perfect {
 			System.out.printf("+\n-------------------------\n");
 			System.out.printf("\n!= %d is Not a Perfect No.",n);
 		}
+		sc.close();
 		System.out.println();
 	}
 }

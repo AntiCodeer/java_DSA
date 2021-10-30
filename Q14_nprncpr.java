@@ -11,6 +11,7 @@ class Q14_ncrnpr {
         System.out.printf("\n nPr = %d",npr);
         int ncr = npr/fact(r);
         System.out.printf("\n nCr = %d",ncr);        
+        in.close();
         System.out.println();
     }
     

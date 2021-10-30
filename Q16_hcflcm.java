@@ -18,6 +18,7 @@ class Q16_hcflcm {
         int lcm = (a*b)/hcf;
         System.out.printf("\nHCF = %d",hcf);
         System.out.printf("\nLCM = %d",lcm);
+        in.close();
         System.out.println();
     }
 }

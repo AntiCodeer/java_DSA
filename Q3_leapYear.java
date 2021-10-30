@@ -31,7 +31,7 @@ class Q3_leapYear
         {
             System.out.printf("%d Is Not A Leap Year.",year);
         }
-
+        sc.close();
         System.out.print("\n");
     }
 }

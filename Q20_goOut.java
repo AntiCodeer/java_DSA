@@ -13,6 +13,7 @@ class Q20_goOut{
 			}
 		}
 		System.out.printf("He Can Go Out Only %d Days In this Month.",c);
+		sc.close();
 		System.out.println();
 	}
 }
