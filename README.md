@@ -97,7 +97,7 @@ A customer's wealth is the amount of money they have in all their bank accounts.
     3rd customer has wealth = 8
     The 2nd customer is the richest with a wealth of 10.
     
-- Q31. LeetCode 1470. Shuffle the Array
+- Q31. LeetCode 1470. Shuffle the Array.
 
 Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
 
