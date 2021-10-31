@@ -7,7 +7,9 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q4. Solve Fibonacci Series Problem and take no of terms as a input.
 - Q5. Check wheather a String or a Number is Palindrome or not.
 - Q6. Check wheather a Number is Armstrong Number or not.
-- Q7. Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+- Q7. Leetcode. 1281. Subtract the Product and Sum of Digits of an Integer
+
+Given an integer number n, return the difference between the product of its digits and the sum of its digits.
 
         Example 1:
         Input: n = 234
@@ -36,7 +38,9 @@ Trying To Learn Basic Data Structure Algorithm Using JAVA
 - Q24. Write a program to print the factorial of a number by defining a method named 'Factorial'. Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.-> 4! = 1 * 2 * 3 * 4 = 24 
 - Q25. Write a function that returns all prime numbers between two given numbers.
 - Q26. Write a function that returns the sum of first n natural numbers.
-- Q27. Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
+- Q27. LeetCode 1920. Build Array from Permutation
+
+Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
 
 A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
 
@@ -49,7 +53,9 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
         = [nums[0], nums[2], nums[1], nums[5], nums[3], nums[4]]
         = [0,1,2,4,5,3]
 
-- Q28. Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed).
+- Q28. LeetCode 1929. Concatenation of Array
+
+Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed).
 
 Specifically, ans is the concatenation of two nums arrays.
 
@@ -63,7 +69,9 @@ Return the array ans.
     - ans = [nums[0],nums[1],nums[2],nums[0],nums[1],nums[2]]
     - ans = [1,2,1,1,2,1]
 
-- Q29. Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+- Q29. LeetCode 1480. Running Sum of 1d Array
+
+Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
 Return the running sum of nums. 
 
@@ -73,7 +81,9 @@ Return the running sum of nums.
     Output: [1,3,6,10]
     Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 
-- Q30. You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has.
+- Q30. LeetCode 1672. Richest Customer Wealth
+
+You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has.
 
 A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
     
