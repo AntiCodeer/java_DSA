@@ -2,12 +2,12 @@ import java.util.*;
 class Q31_leetCodeSol6 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int nums[] = new int[8];
+		int nums[] = new int[6];
 		for(int i=0; i<nums.length; ++i) {
 			nums[i] = sc.nextInt();
 		}
-		shuffleArray(nums,4);
-		shuffleArray1(nums,4);
+		shuffleArray(nums,3);
+		shuffleArray1(nums,3);
 		sc.close();
 		System.out.println();
 	}
