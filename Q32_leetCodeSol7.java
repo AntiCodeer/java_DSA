@@ -8,6 +8,7 @@ class Q32_leetCodeSol7 {
 			nums[i] = sc.nextInt();
 		}
 		solve(nums,3);
+		solve1(nums,3);
 		sc.close();
 		System.out.println();
 	}
@@ -30,5 +31,25 @@ class Q32_leetCodeSol7 {
 			}
 		}
 		System.out.println(a);
+	}
+
+	static void solve1(int[] candies,int extraCandies) {
+		ArrayList<Boolean> a = new ArrayList<Boolean>();
+		int max=0;
+		for (int i=0; i<candies.length; ++i) {
+			if (candies[i]>max) {
+				max=candies[i];
+			}
+		}
+		for (int i=0; i<candies.length; ++i) {
+			if (max-extraCandies>candies[i]) {
+				a.add(false);
+			}
+			else {
+				a.add(true);
+			}
+		}
+		System.out.println(a);
+		// return a;
 	}
 }
