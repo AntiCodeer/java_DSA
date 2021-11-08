@@ -128,6 +128,7 @@ Note that multiple kids can have the greatest number of candies.
     - Kid 5, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
 
 - Q33. LeetCode 1365. How Many Numbers Are Smaller Than the Current Number.
+
 Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i]. Return the answer in an array.
 
         Example :
@@ -140,3 +141,14 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
         For nums[2]=2 there exist one smaller number than it (1). 
         For nums[3]=2 there exist one smaller number than it (1). 
         For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
+    
+- Q34. LeetCode 1512. Number of Good Pairs.
+
+Given an array of integers nums, return the number of good pairs.
+A pair (i, j) is called good if nums[i] == nums[j] and i < j.
+
+        Example :
+
+        Input: nums = [1,2,3,1,1,3]
+        Output: 4
+        Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
