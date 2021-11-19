@@ -1,6 +1,22 @@
 # java_DSA
 Trying To Learn Basic Data Structure Algorithm Using JAVA
+# Setup Instruction
+- Download And install Latest Version of openjdk.
+    - Linux (Ubuntu):- 
+            
+            sudo apt install openjdk-17-jdk 
+    - Mac :- 
 
+            brew tap AdoptOpenJDK/openjdk
+            brew cask install adoptopenjdk17
+    - Windows :- 
+
+            Download setup From Oracle Website, And add the bin folder to the Windows path.
+    
+- After JDK install Download any Text Editor(VSCODE, SUBLIME TEXT, etc....)
+or  Download IntelliJ IDEA(IDE)
+- Now You Good to Go....
+# Now Let Jump Into the Problem's (You can Click on the Q's to see the Solution)
 - Q1. [Findout the Largest No Among Three No's](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q1_LargeNo.java)
 
 - Q2. [Check Wheather a Chracter is in Uppercase or in Lowercase](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q2_caseCheck.java)
