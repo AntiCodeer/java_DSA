@@ -2,17 +2,17 @@
 Trying To Learn Basic Data Structure Algorithm Using JAVA
 # Setup Instruction
 - Download And install Latest Version of openjdk.
-    - Linux (Ubuntu):- 
-            
-            sudo apt install openjdk-17-jdk 
-    - Mac :- 
+    - Linux (Ubuntu):-
+
+            sudo apt install openjdk-17-jdk
+    - Mac :-
 
             brew tap AdoptOpenJDK/openjdk
             brew cask install adoptopenjdk17
-    - Windows :- 
+    - Windows :-
 
             Download setup From Oracle Website, And add the bin folder to the Windows path.
-    
+
 - After JDK install Download any Text Editor(VSCODE, SUBLIME TEXT, etc....)
 or  Download IntelliJ IDEA(IDE)
 - Now You Good to Go....
@@ -65,7 +65,7 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
 
     Input: nums = [0,2,1,5,3,4]
     Output: [0,1,2,4,5,3]
-    Explanation: The array ans is built as follows: 
+    Explanation: The array ans is built as follows:
     ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]], nums[nums[5]]]
         = [nums[0], nums[2], nums[1], nums[5], nums[3], nums[4]]
         = [0,1,2,4,5,3]
@@ -76,7 +76,7 @@ Given an integer array nums of length n, you want to create an array ans of leng
 
 Specifically, ans is the concatenation of two nums arrays.
 
-Return the array ans. 
+Return the array ans.
 
     Example :
 
@@ -90,7 +90,7 @@ Return the array ans.
 
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
-Return the running sum of nums. 
+Return the running sum of nums.
 
     Example :
 
@@ -103,17 +103,17 @@ Return the running sum of nums.
 You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has.
 
 A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
-    
+
     Example :
 
     Input: accounts = [[1,5],[7,3],[3,5]]
     Output: 10
-    Explanation: 
+    Explanation:
     1st customer has wealth = 6
-    2nd customer has wealth = 10 
+    2nd customer has wealth = 10
     3rd customer has wealth = 8
     The 2nd customer is the richest with a wealth of 10.
-    
+
 - Q31. [LeetCode 1470. Shuffle the Array.](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q31_leetCodeSol6.java)
 
 Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
@@ -123,7 +123,7 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
     Example :
 
     Input: nums = [2,5,1,3,4,7], n = 3
-    Output: [2,3,5,4,1,7] 
+    Output: [2,3,5,4,1,7]
     Explanation: Since x1=2, x2=5, x3=1, y1=3, y2=4, y3=7 then the answer is [2,3,5,4,1,7].
 - Q32. [LeetCode 1431. Kids With the Greatest Number of Candies](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q32_leetCodeSol7.java)
 
@@ -136,7 +136,7 @@ Note that multiple kids can have the greatest number of candies.
     Example :
 
     Input: candies = [2,3,5,1,3], extraCandies = 3
-    Output: [true,true,true,false,true] 
+    Output: [true,true,true,false,true]
     Explanation: If you give all extraCandies to:
     - Kid 1, they will have 2 + 3 = 5 candies, which is the greatest among the kids.
     - Kid 2, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
@@ -152,13 +152,13 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 
         Input: nums = [8,1,2,2,3]
         Output: [4,0,1,1,3]
-        Explanation: 
-        For nums[0]=8 there exist four smaller numbers than it (1, 2, 2 and 3). 
+        Explanation:
+        For nums[0]=8 there exist four smaller numbers than it (1, 2, 2 and 3).
         For nums[1]=1 does not exist any smaller number than it.
-        For nums[2]=2 there exist one smaller number than it (1). 
-        For nums[3]=2 there exist one smaller number than it (1). 
+        For nums[2]=2 there exist one smaller number than it (1).
+        For nums[3]=2 there exist one smaller number than it (1).
         For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
-    
+
 - Q34. [LeetCode 1512. Number of Good Pairs.](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q34_leetCodeSol9.java)
 
 Given an array of integers nums, return the number of good pairs.
@@ -205,3 +205,21 @@ It is guaranteed that the insertion operations will be valid.
     2            2        [0,1,2]
     3            2        [0,1,3,2]
     4            1        [0,4,1,3,2]
+
+- Q37. [LeetCode 1832. Check if the Sentence Is Pangram.](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q37_leetCodeSol12.java)
+
+A pangram is a sentence where every letter of the English alphabet appears at least once.
+
+Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
+
+
+
+    Example :
+
+    Input: sentence = "thequickbrownfoxjumpsoverthelazydog"
+    Output: true
+    Explanation: sentence contains at least one of every letter of the English alphabet.
+    Example :
+
+    Input: sentence = "leetcode"
+    Output: false
