@@ -223,3 +223,14 @@ Given a string sentence containing only lowercase English letters, return true i
 
     Input: sentence = "leetcode"
     Output: false
+- Q38. [Linear Search Algorithm](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q38_linearSearch.java)
+
+      Example :
+      input :-
+      5
+      1 78 12 12 0 
+      12
+      Output :-
+      12 Element Found In 3 Position.
+      12 Element Found In 4 Position.
+      12 Element Occurs 2 Times.
