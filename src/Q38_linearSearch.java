@@ -5,7 +5,7 @@ class Q38_lSearch {
     int n = sc.nextInt();
     int[] a = new int[n];
     for (int i=0; i<n; ++i) {
-      a[i] = sc.nextInt();      
+      a[i] = sc.nextInt();
     }
     int key = sc.nextInt();
     search(a,key);
@@ -26,7 +26,5 @@ class Q38_lSearch {
     else {
       System.out.printf("\n %d Element Not Found In Array",key);
     }
-        
-
   }
 }
