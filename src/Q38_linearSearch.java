@@ -2,11 +2,14 @@ import java.util.*;
 class Q38_linearSearch {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
+    System.out.print("Enter the No of Element :- ");
     int n = sc.nextInt();
+    System.out.print("Enter the Array Elements :- ");
     int[] a = new int[n];
     for (int i=0; i<n; ++i) {
       a[i] = sc.nextInt();
     }
+    System.out.print("\nEnter the Key Value :- ");
     int key = sc.nextInt();
     search(a,key);
     sc.close();
