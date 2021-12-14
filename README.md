@@ -234,3 +234,18 @@ Given a string sentence containing only lowercase English letters, return true i
       12 Element Found In 3 Position.
       12 Element Found In 4 Position.
       12 Element Occurs 2 Times.
+
+- Q39. [Binary Seach Algorithm](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q39_binarySearch.java)
+
+        Example :
+        input :-
+        Enter the No Of Elements :- 5
+        Enter the Array Elements :-
+        12
+        32
+        45
+        65
+        78
+        Enter the Key Value :- 78
+        output :- 
+        78 Element Found In 5 Position.
