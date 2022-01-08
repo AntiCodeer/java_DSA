@@ -249,3 +249,6 @@ Given a string sentence containing only lowercase English letters, return true i
         Enter the Key Value :- 78
         output :- 
         78 Element Found In 5 Position.
+- [Check.java](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q2_caseCheck.java)
+    
+        It is a simple program to Compare two Strings
