@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q10_large {
     public static void main(String[] args) {

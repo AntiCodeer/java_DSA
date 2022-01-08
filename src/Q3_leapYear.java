@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 class Q3_leapYear 

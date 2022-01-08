@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q19_leap {
 	public static void main(String[] args) {

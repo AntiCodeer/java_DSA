@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q25_primeRange {
 	public static void main(String[] args) {

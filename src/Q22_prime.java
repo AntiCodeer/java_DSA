@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q22_prime {
 	public static void main(String[] args) {

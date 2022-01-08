@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class check
 {
@@ -12,5 +14,6 @@ class check
         String value2 = scan.nextLine();
 
         System.out.println(value1.equals(value2));
+        scan.close();
    }
 }

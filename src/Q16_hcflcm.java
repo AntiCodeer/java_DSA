@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q16_hcflcm {
     public static void main(String[] args) {

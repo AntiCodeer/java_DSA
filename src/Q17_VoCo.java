@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q17_VoCo {
     public static void main(String[] args) {

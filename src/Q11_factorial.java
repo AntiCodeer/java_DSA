@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q11_factorial {
     public static void main(String[] args) {

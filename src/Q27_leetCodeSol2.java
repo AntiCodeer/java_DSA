@@ -1,3 +1,5 @@
+package src;
+
 import java.util.*;
 class Q27_leetCodeSol2 {
 	public static void main(String[] args) {

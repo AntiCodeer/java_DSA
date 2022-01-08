@@ -1,3 +1,5 @@
+package src;
+
 import java.util.*;
 
 class Q34_leetCodeSol9 {

@@ -1,3 +1,5 @@
+package src;
+
 import java.util.*;
 public class Q30_leetCodeSol5 {
     public static void main(String[] args) {

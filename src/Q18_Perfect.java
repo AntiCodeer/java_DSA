@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q18_Perfect {
 	public static void main(String[] args) {

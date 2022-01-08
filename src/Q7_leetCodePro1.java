@@ -1,3 +1,5 @@
+package src;
+
 class Q7_leetCodePro1 {
     public int subtractProductAndSum(int n) {
         

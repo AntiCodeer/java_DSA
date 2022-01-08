@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q20_goOut{
 	public static void main(String[] args) {

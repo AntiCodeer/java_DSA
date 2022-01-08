@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 class Q5_strPalindrome {

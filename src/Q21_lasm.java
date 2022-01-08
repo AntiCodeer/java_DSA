@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 class Q21_lasm {
 	public static void main(String[] args) {
