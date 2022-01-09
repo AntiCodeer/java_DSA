@@ -252,3 +252,20 @@ Given a string sentence containing only lowercase English letters, return true i
 - [Check.java](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q2_caseCheck.java)
     
         It is a simple program to Compare two Strings
+    
+- Q40. [Leetcode 1. Two Sum](https://github.com/AntiCodeer/java_DSA/blob/main/src/Q40_leetCodeSol13.java)
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+    Example 1:
+    Input: nums = [2,7,11,15], target = 9
+    Output: [0,1]
+    Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+    Example 2:
+    Input: nums = [3,2,4], target = 6
+    Output: [1,2]
