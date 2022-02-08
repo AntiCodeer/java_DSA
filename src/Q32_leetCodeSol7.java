@@ -1,6 +1,4 @@
-package src;
-
-import java.util.*;
+ import java.util.*;
 class Q32_leetCodeSol7 {
 	public static void main(String[] args) {
 		

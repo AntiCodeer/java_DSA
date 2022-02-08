@@ -1,6 +1,4 @@
-package src;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 
 class Q8_factorial {
     public static void main(String[] args) {

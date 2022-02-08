@@ -1,6 +1,4 @@
-package src;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 import java.util.Arrays;
 class Q36_leetCodeSol11 {
 	public static void main(String[] args) {

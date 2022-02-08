@@ -1,6 +1,4 @@
-package src;
-
-import java.util.*;
+ import java.util.*;
 class Q31_leetCodeSol6 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

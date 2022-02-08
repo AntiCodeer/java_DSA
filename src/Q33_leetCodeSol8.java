@@ -1,6 +1,4 @@
-package src;
-
-import java.util.*;
+ import java.util.*;
 class Q33_leetCodeSol8 {
 	public static void main(String[] args) {
 		

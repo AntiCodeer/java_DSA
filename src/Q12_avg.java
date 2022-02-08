@@ -1,6 +1,4 @@
-package src;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 class Q12_avg {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,6 +1,4 @@
-package src;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 
 class Q39_binarySearch {
     public static void main(String[] args) {

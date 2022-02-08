@@ -1,6 +1,4 @@
-package src;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 class Q13_power {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
