@@ -8,11 +8,13 @@ class stringChecker {
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) <= 'z' && str.charAt(i) >= 'a') {
                 System.out.println("PureString");
+            } else if (str.charAt(i) <= 'z' && str.charAt(i) >= 'A') {
+                System.out.println("PureString");
             } else {
                 System.out.println("IMPureString");
             }
         }
-        sc.close();
         System.out.println();
+        sc.close();
     }
 }
