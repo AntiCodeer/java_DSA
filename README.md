@@ -298,3 +298,15 @@ This is program to check if a prime no is prime with the sum of the digits also 
         28 is Not a Prime No.
         29 is a Prime No.
         30 is Not a Prime No.
+
+- Q42. [stringChecker.java](https://github.com/AntiCodeer/java_DSA/blob/main/src/stringChecker.java)
+
+This is program to check if a prime no is prime with the sum of the digits also or not
+
+        Example :
+        Enter the String :- he11o
+        PureString
+        PureString
+        IMPureString
+        IMPureString
+        PureString
