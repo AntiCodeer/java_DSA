@@ -269,3 +269,32 @@ You can return the answer in any order.
     Example 2:
     Input: nums = [3,2,4], target = 6
     Output: [1,2]
+
+- Q41. [primeNoDigits.java](https://github.com/AntiCodeer/java_DSA/blob/main/src/primeNoDigits.java)
+
+This is program to check if a prime no is prime with the sum of the digits also or not
+
+        Example :
+        Enter the range as A and B.....
+        Enter A :- 10
+
+        Enter B :- 30
+
+        10 is Not a Prime No.
+        11 is a Prime No.
+        12 is Not a Prime No.
+        14 is Not a Prime No.
+        15 is Not a Prime No.
+        16 is Not a Prime No.
+        18 is Not a Prime No.
+        20 is Not a Prime No.
+        21 is Not a Prime No.
+        22 is Not a Prime No.
+        23 is a Prime No.
+        24 is Not a Prime No.
+        25 is Not a Prime No.
+        26 is Not a Prime No.
+        27 is Not a Prime No.
+        28 is Not a Prime No.
+        29 is a Prime No.
+        30 is Not a Prime No.
