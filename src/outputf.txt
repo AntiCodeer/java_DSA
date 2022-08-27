@@ -1,36 +1,10 @@
- *
- * *
- * * *
- * * * *
- * * * * *
 
- * * * * *
- * * * *
- * * *
- * *
- *
-
-      *
-     * *
-    * * *
-   * * * *
-  * * * * *
-
-  * * * * *
-   * * * *
-    * * *
-     * *
-      *
-
- 1
- 1 2
- 1 2 3
- 1 2 3 4
- 1 2 3 4 5
-
- 1 2 3 4 5
- 2 3 4 5
- 3 4 5
- 4 5
- 5
-
+Enter The Range of Prime No With A and B.....
+Enter A -> 
+Enter B -> 
+11 is a Prime No.
+13 is a Prime No.
+17 is a Prime No.
+19 is a Prime No.
+23 is a Prime No.
+29 is a Prime No.
